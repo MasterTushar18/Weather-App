@@ -6,7 +6,7 @@ async function fetchWeather() {
   const city = document.getElementById('cityInput').value;
 
   if (!city) {
-    alert("Please enter a city.");
+    document.getElementById('weatherData').innerHTML = `<p style="color:red;">Please enter a city.</p>`;
     return;
   }
 
