@@ -4,4 +4,4 @@ spring:
 
 weatherstack:
   api:
-    key: "your_api_key_here"
+    key: 63324e376372b993c4cc189da1a1d10b
