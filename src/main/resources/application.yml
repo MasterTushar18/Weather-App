@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: Weather-App
+
+weatherstack:
+  api:
+    key: 63324e376372b993c4cc189da1a1d10b
